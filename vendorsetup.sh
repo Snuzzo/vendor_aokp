@@ -33,4 +33,4 @@ add_lunch_combo aokp_tf201-userdebug
 add_lunch_combo aokp_vibrantmtd-userdebug
 add_lunch_combo aokp_ville-userdebug
 add_lunch_combo aokp_vivow-userdebug
-add_lunch_combo aokp_wingray-userdebug
+add_lunch_combo aokp_vigor-userdebug
