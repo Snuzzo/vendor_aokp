@@ -5,6 +5,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/common
 include vendor/aokp/configs/themes_common.mk
 
 PRODUCT_PACKAGES += \
+    Camera \
     MusicFX \
     MusicVisualization \
     NoiseField \
